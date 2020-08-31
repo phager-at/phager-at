@@ -1,11 +1,23 @@
+---
+layout: cv
+title: Curiculum Vitae—Philipp Hager
+adress.street: Blindengasse 39/11
+adress.postcode: 1080
+adress.city: Vienna
+adress.country: Austria
+email.work: philipp.hager@edaktik.at
+email.private: philipp@phager.at
+email.business: office@phager.at
+phone.private: +43 (676) 585 67 94
+phone.work: +43 (2231) 23705-011
+links.github: https://github.com/phager-at
+links.web: https://phager.at/
+---
+
 Philipp Hager
 =============
 
------------------------                 -----------------------------
-Blindengasse 39/11                                  philipp@phager.at
-1080 Vienna                                       +43 (676) 585 67 94
-Austria                                          github.com/phager-at    
------------------------                 -----------------------------
+//TODO: layout file using the variables!
 
 Experience
 ----------
